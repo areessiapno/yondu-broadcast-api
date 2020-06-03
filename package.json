@@ -1,0 +1,11 @@
+{
+  "name": "yondu-broadcast-api",
+  "version": "0.1.0",
+  "description": "Yondu broadcast api wrapper for node.js",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arees Siapno",
+  "license": "MIT"
+}
