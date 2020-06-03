@@ -10,5 +10,9 @@
   "license": "MIT",
   "dependencies": {
     "request": "^2.88.2"
+  },
+   "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/areessiapno/yondu-broadcast-api.git"
   }
 }
