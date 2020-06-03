@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Arees Siapno",
-  "license": "MIT"
+  "author": "Arees Siapno <areessiapno@gmail.com> (https://github.com/areessiapno)",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
 }
