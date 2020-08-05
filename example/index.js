@@ -2,10 +2,7 @@
 
 const YonduBroadcastAPI = require("../lib");
 
-var client = new YonduBroadcastAPI({
-    username: "yourusername"
-  , password: "yourpassword"
-});
+var client = new YonduBroadcastAPI({});
 
 client.brdcstmsg({
 	"username": "yourusername",
